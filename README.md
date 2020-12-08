@@ -1,5 +1,7 @@
 # Documentation
 The project instructions can be found [here](/ProjectInstructions.pdf).
+All tasks related to the project can be viewed [here](https://github.com/orgs/EECS-4404/projects/1).
+
 
 ## Subgroups
 This project is made up of three sub-groups with 3 students each.
@@ -10,6 +12,7 @@ This project is made up of three sub-groups with 3 students each.
 | Student #4   | Student #5   | Student #6    |
 | Student #7   | Student #8   | Student #9    |
 
+Main contact: **Jaime Dantas.**
 
 ## Dataset
 The dataset selected can be found [here](https://github.com/EECS-4404/dataset).
