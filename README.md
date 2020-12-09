@@ -2,6 +2,9 @@
 The project instructions can be found [here](/ProjectInstructions.pdf).
 All tasks related to the project can be viewed [here](https://github.com/orgs/EECS-4404/projects/1).
 
+### Discord channel
+Click [here](https://discord.gg/bHTRqTbY) to enter the discord channel.
+
 
 ## Subgroups
 This project is made up of three sub-groups with 3 students each.
