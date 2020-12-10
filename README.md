@@ -9,11 +9,11 @@ Click [here](https://discord.gg/bHTRqTbY) to enter the discord channel.
 ## Subgroups
 This project is made up of three sub-groups with 3 students each.
 
-| Sub-group 1  | Sub-group 2  |  Sub-group 3  |
-| -------------| -------------|  -------------|
-| Student #1   | Student #2   | Student #3    |
-| Student #4   | Student #5   | Student #6    |
-| Student #7   | Student #8   | Student #9    |
+| Sub-group 1       | Sub-group 2  | Sub-group 3     |
+| ----------------- | ------------ | --------------- |
+| Jamie Dantas      | Minghong Xu  | Nizwa Javed     |
+| Matthew Tolentino | Baoqi Yu     | Thomas Lykouras |
+| David Mounes      | Shaoyi Ming  | Umer Qudrat     |
 
 Main contact: **Jaime Dantas.**
 
@@ -22,9 +22,9 @@ The dataset selected can be found [here](https://github.com/EECS-4404/dataset).
 
 ## Models 
 The models selected were:
-1. $name
-2. $name
-3. $name
+1. Fee-forward Neural network
+2. K-nearest neighbour predictor
+3. Kernelized support vector machine
 
 ## Timetable
 <table>
