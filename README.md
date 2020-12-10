@@ -22,7 +22,7 @@ The dataset selected can be found [here](https://github.com/EECS-4404/dataset).
 
 ## Models 
 The models selected were:
-1. Fee-forward Neural network
+1. Feed-forward Neural network
 2. K-nearest neighbour predictor
 3. Kernelized support vector machine
 
