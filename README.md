@@ -13,7 +13,7 @@ This project is made up of three sub-groups with 3 students each.
 | ----------------- | ------------ | --------------- |
 | Jamie Dantas      | Minghong Xu  | Nizwa Javed     |
 | Matthew Tolentino | Baoqi Yu     | Thomas Lykouras |
-| David Mounes      | Shaoyi Ming  | Umer Qudrat     |
+| David Mounes      | Yiming Shao  | Umer Qudrat     |
 
 Main contact: **Jaime Dantas.**
 
