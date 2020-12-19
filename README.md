@@ -4,7 +4,15 @@ All tasks related to the project can be viewed [here](https://github.com/orgs/EE
 
 ### Discord channel
 Click [here](https://discord.gg/bHTRqTbY) to enter the discord channel.
+<div>
+<img src="/images/discord.png" width="100px"</img> 
+</div>
 
+### Report
+The final report can be found [here](https://github.com/EECS-4404/report/blob/main/Final_Project_ML.pdf)
+<div>
+<img src="/images/report.png" width="150px"</img> 
+</div>
 
 ## Subgroups
 This project is made up of three sub-groups with 3 students each.
