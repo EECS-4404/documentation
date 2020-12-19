@@ -3,7 +3,7 @@ The project instructions can be found [here](/ProjectInstructions.pdf).
 All tasks related to the project can be viewed [here](https://github.com/orgs/EECS-4404/projects/1).
 
 ### Discord channel
-Click [here](https://discord.gg/bHTRqTbY) to enter the discord channel.
+Click [here](https://discord.gg/bHTRqTbY) to enter into the discord server.
 <div>
 <img src="/images/discord.png" width="100px"</img> 
 </div>
@@ -30,9 +30,9 @@ The dataset selected can be found [here](https://github.com/EECS-4404/dataset).
 
 ## Models 
 The models selected were:
-1. Feed-forward Neural network
-2. K-nearest neighbour predictor
-3. Kernelized support vector machine
+1. [Feed-forward Neural network](https://github.com/EECS-4404/predictor-1)
+2. [K-nearest neighbour predictor](https://github.com/EECS-4404/predictor-2)
+3. [Kernelized support vector machine](https://github.com/EECS-4404/predictor-3)
 
 ## Timetable
 <table>
